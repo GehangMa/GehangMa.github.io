@@ -4,7 +4,7 @@
 - 🎧 Rock, Metal, Jazz and R&B
 - 🏃🏻 Life is sports!
 - 📫 GehangMa@outlook.com
-- 🎥 [My Bilibili Page](https://space.bilibili.com/317734902/)
+- 🎥 [My Bilibili Page](https://github.com/GehangMa/GehangMa.github.io/blob/main/url/url.html)
 - 📷 Instagram [@Antulyn.x_x](https://www.instagram.com/p/CxSituKMEVV/)
 
 
