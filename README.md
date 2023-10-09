@@ -5,7 +5,7 @@
 - 🏃🏻 Life is sports!
 - 📫 GehangMa@outlook.com
 - 🎥 [My Bilibili Page](https://github.com/GehangMa/GehangMa.github.io/blob/main/url/url.html)
-- 📷 Instagram [@Antulyn.x_x](https://www.instagram.com/p/CxSituKMEVV/)
+- 📷 Instagram [@Antulyn.x_x](https://github.com/GehangMa/GehangMa.github.io/blob/main/url/url%202.html)
 
 
 
