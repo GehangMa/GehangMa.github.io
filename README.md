@@ -7,7 +7,7 @@
 - 🎥 [My Bilibili Page](https://space.bilibili.com/317734902/)
 - 📷 Instagram [@Antulyn.x_x](https://www.instagram.com/antulyn.x_x/)
 
-[](https://github.com/GehangMa/GehangMa.github.io/blob/main/Pics/89DE3C47-0FE7-4B17-9A2B-FDE41F6AEAF2.jpeg)
+![Me a kinda cool nerd Lol](https://github.com/GehangMa/GehangMa.github.io/blob/main/Pics/89DE3C47-0FE7-4B17-9A2B-FDE41F6AEAF2.jpeg)
 
 
 <!---
