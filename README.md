@@ -1,8 +1,8 @@
 - 👋 我是小航
 - 📚 I’m interested in Physics & Aerospace Engineering
-  Applying for Imperial College London & UCBerkley, 25fall
+- Applying for Imperial College London & UCBerkley, 25fall
 - ⌨️ I’m currently learning Python, LaTeX and Matlab
-  My code sucks :(
+- My code sucks :(
 - 🎧 Rock, Metal, Jazz and R&B
 - 🏃🏻 Life is sports!
 - 📫 GehangMa@outlook.com
