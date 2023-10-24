@@ -1,4 +1,4 @@
-- 👋 我是小航
+- 👋 我是 [小航]({{< ref "1" >}})
 - 📚 I’m interested in Physics & Aerospace Engineering
 - Applying for Imperial College London & UCBerkley, 25fall
 - ⌨️ I’m currently learning Python, LaTeX and Matlab
