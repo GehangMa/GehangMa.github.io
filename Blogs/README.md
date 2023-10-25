@@ -1,2 +1,2 @@
-# blogs
+# Blogs
 待更新
