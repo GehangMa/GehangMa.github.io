@@ -1,3 +1,3 @@
-## 你想从什么方面了解我？
+## About Me
 
-[爱好]({{< page "Hobbies">}})
+[爱好]({{< ref "Hobbies">}})
