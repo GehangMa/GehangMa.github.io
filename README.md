@@ -67,4 +67,4 @@
 
 [Instagram: @Antulyn.x_x](https://www.instagram.com/antulyn.x_x/)
 
-[Personal Email](GehangMa@outlook.com)
+[Personal Email]GehangMa@outlook.com
