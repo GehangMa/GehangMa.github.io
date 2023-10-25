@@ -7,7 +7,7 @@ title: A Place For 航's Head
 你好，我是**小航**。
 
 **自画像：**
-![](Me.png)
+![](https://github.com/GehangMa/GehangMa.github.io/blob/main/Me.png)
 
 ## 我是个什么样的人？
 
