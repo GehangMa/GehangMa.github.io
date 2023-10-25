@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: A Place For 航's Head
 description: 一个独特的灵魂
+
+
+
+copyright: >-
+  &copy; #YEAR# 航
+  [MIT License](https://opensource.org/license/mit/)
