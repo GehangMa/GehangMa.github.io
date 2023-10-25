@@ -21,12 +21,3 @@
 这是我在网络空间的栖身之地，在这里我脱离了尘世种种物质的束缚，以代码、文字而非丑陋的血肉作为我的身躯。
 
 简而言之，网络让我逃离了现实的懦弱与缺陷，though hard to admit it.
-
-
-## 联系方式：
-
-[My Bilibili Page](https://space.bilibili.com/317734902/)
-
-[Instagram: @Antulyn.x_x](https://www.instagram.com/antulyn.x_x/)
-
-Personal Email：GehangMa@outlook.com
