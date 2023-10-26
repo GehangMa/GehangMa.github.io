@@ -8,6 +8,6 @@
 
 [Listen Up!](Music/Readme.md)
 
-[My Collection](Collection/Readme.md)
+[My Life](Life/Readme.md)
 
 [The works](Works/Readme.md)
