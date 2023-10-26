@@ -2,11 +2,10 @@
 
 *"Sorry我不在，请在Beep声后留言"*
 
-各项链接在下方，请说明来意，不要发送无意义的骚扰信息。
 
-## 工作事宜
+## Personal Email
 
-Personal Email：<GehangMa@outlook.com>
+<GehangMa@outlook.com>
 
 ## Social Media
 
