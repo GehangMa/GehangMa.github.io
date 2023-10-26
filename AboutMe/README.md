@@ -2,12 +2,6 @@
 
 你想从哪个方面了解我？
 
-「[个人简介]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/README.md#Me>}})」
-
-「[爱好]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/What/What.md>}})」
-
-「[烦恼]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/README.md#Misery>}})」
-
 ## Me
 
   叫我「航」/「小航」就行，人称代词（他/He）
