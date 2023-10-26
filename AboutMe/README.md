@@ -3,9 +3,6 @@
 你想从哪个方面了解我？
 
 <details>
-  
-  <summary> 个人简介 </summary>
-  <ul>
     
   - ### 我
   叫我「航」/「小航」就行，人称代词（他/He）
@@ -31,7 +28,7 @@
   2023 Aerotube Top 10 in China
 
   2023 Aerotube 3rd Priza in China
-  </ul>
+  
 </details>
 
 <details>
