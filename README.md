@@ -21,3 +21,9 @@
 这是我在网络空间的栖身之地，在这里我脱离了尘世种种物质的束缚，以代码、文字而非丑陋的血肉作为我的身躯。
 
 简而言之，网络让我逃离了现实的懦弱与缺陷，though hard to admit it.
+
+## 版权声明
+
+本站的 **所有文章** 均为作者 「航」（GehangMa） 所有
+
+[MIT License] https://opensource.org/license/mit/
