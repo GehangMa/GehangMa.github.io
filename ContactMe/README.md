@@ -6,7 +6,7 @@
 
 ## 工作事宜
 
-Personal Email：GehangMa@outlook.com
+Personal Email：<GehangMa@outlook.com>
 
 ## Social Media
 
