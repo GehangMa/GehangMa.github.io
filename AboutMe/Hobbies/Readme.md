@@ -27,7 +27,7 @@
 
   音乐相关请见：
 
-  [Listen Up!](Music/Readme.md)
+  [Listen Up!](https://gehangma.github.io/Blogs/Music/)
 
   - ## 运动
 
