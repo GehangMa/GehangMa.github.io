@@ -4,7 +4,7 @@
 
 「[个人简介]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/README.md#Me>}})」
 
-「[爱好]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/What.md>}})」
+「[爱好]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/What.html>}})」
 
 「[烦恼]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/README.md#Misery>}})」
 
