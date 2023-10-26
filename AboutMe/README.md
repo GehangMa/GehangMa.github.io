@@ -3,7 +3,7 @@
 你想从哪个方面了解我？
 
 <details>
-<summary> 个人简介 </summary>
+  <summary> 个人简介 </summary>
 
   ## 我
 
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-<summary> 一些爱好 </summary>
+  <summary> 一些爱好 </summary>
 
   ## 毕竟也不是完全的书呆子，还是得有点爱好的。
 
@@ -79,7 +79,7 @@
 </details>
 
 <details>
-<summary> 烦恼 </summary>
+  <summary> 烦恼 </summary>
 
   ## ~~"刚甩掉课本要离开家看看这世界，却发现许多烦恼要面对"~~
 
