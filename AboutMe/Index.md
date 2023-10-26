@@ -2,7 +2,7 @@
 
 你想从哪个方面了解我？
 
-[test](AboutMe/Hobbies/Readme.md)
+[test](Hobbies/Readme.md)
 
 ## Me
 
