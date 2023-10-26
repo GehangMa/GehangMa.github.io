@@ -1,8 +1,14 @@
 # About Me
 
 你想从哪个方面了解我？
-    
-## 个人简介
+
+「[个人简介]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/README.md#Me>}})」
+
+「[爱好]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/README.md#Hobbies>}})」
+
+「[烦恼]({{<https://github.com/GehangMa/GehangMa.github.io/edit/main/AboutMe/README.md#Misery>}})」
+
+## Me
 
   叫我「航」/「小航」就行，人称代词（他/He）
 
@@ -28,7 +34,9 @@
 
   2023 Aerotube 3rd Priza in China
   
-## 毕竟也不是完全的书呆子，还是得有点爱好的。
+## Hobbies
+
+*毕竟也不是完全的书呆子，还是得有点爱好的。*
 
   - ### 敲敲敲与科学
 
@@ -68,7 +76,9 @@
 
   **我也会将图画逐步上传个人网站。**
 
-## ~~"刚甩掉课本要离开家看看这世界，却发现许多烦恼要面对"~~
+## Misery
+  
+  ~~"刚甩掉课本要离开家看看这世界，却发现许多烦恼要面对"~~
 
   - ### 学业
 
