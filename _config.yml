@@ -5,7 +5,9 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
-
+{
+    "plugins": ["alerts"]
+}
 
 copyright: >-
   &copy; #YEAR# 航
