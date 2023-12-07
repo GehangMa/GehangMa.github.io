@@ -5,11 +5,6 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
-
-{
-    "plugins": ["alerts"]
-}
-
 copyright: >-
   &copy; #YEAR# 航
   [MIT License](https://opensource.org/license/mit/)
