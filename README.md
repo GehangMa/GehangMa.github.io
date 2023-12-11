@@ -24,7 +24,7 @@
 
 ## 版权声明
 
-{{< message title="Copyright" addon="is-important" >}}
+{{< message title="Copyright" addon="is-danger" >}}
 
 本站的 **所有原创图文** 均为作者 「航」（GehangMa） 所有
 
