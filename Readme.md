@@ -1,6 +1,8 @@
-# Hello!
-### * Echos *
-~~*Just nod if you can hear me.*~~
+**Hello!**
+
+(*Echos*)
+ 
+**~~*Just nod if you can hear me.*~~**
 
 ```diff
 
