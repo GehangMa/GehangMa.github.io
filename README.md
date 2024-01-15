@@ -21,7 +21,7 @@ It's hard to answer this question.
 
 ```
 
-> **There are a thousand Hamlets in a thousand people's eyes.**
+### **There are a thousand Hamlets in a thousand people's eyes.**
 
 ```diff
 
@@ -39,7 +39,7 @@ Here is a place for my head.
 
 ```
 
-**Welcome to my cyber-world.**
+### Welcome to my cyber-world.
 
 ## Copyright
 
