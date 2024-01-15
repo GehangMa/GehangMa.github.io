@@ -1,22 +1,37 @@
 # About Me
 
-Wanna know...?
-
-[My Hobbies!](Hobbies/Readme.md)
-
-[Worries.](Misery/Readme.md)
-
-
-## Me
-
   「航」(he/him)
 
-  ``` diff
- + I was one of the Z generation kids(I think that's why I easily found myself fond of the digital-world?)
-  ```
-  My appearance: a nerdy geek with glasses.
+``` diff
 
-  🤓
+I am one of the Z generation kids
+
+(I think that's why I easily found myself fond of the digital-world?)
+
+My appearance: a nerdy geek with glasses🤓
+
+Mind you: NEVER JUDGE A BOOK WITH ITS COVER :)
+
+```
+
+
+  - ### Are you an interesting guy?
+
+  ```
+
+  I think YES!
+
+  ```
+
+  [My Hobbies!](Hobbies/Readme.md)
+
+  [My Worries](Misery/Readme.md)
+
+  ```
+
+  And you can also click 'Blogs' to read my thoughts!
+
+  ```
 
   - ### What am I doing?
 
