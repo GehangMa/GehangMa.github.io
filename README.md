@@ -29,8 +29,9 @@ Here is a place for my head.
 
 ```diff
 
-© 2023-2024 航 All rights reserved.
+- © 2023-2024 航 All rights reserved.
 
-[MIT License](https://opensource.org/license/mit/)
+- [MIT License](https://opensource.org/license/mit/)
+
 ```
 
