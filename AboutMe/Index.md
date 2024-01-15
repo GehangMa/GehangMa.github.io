@@ -9,23 +9,24 @@
 
 ## Me
 
-  叫我「航」/「小航」就行，人称代词（他/He）
+  「航」(he/him)
 
-  千禧年后生人，一个平凡的理工男。
+  ``` diff
+ + I was one of the Z generation kids(I think that's why I easily found myself fond of the digital-world?)
+  ```
+  My appearance: a nerdy geek with glasses.
 
-  没什么本事，也就爱在网上发发牢骚。
+  🤓
 
-  实力是战五渣，形象是矮穷矬。
+  - ### What am I doing?
 
-  - ### 担任职务
+  SNA Astronomy Society President
 
-  SNA天文社社长
+  A Contributor of a minority community on Github
 
-  某wiki见习编辑
+  AP Calculus/Physics Tutor (Starting From Nov.2023)
 
-  - ### Part of Academic Record
-
-  **很菜**
+  - ### Part of Academic Records
 
   2022 Physics Bowl National Sliver
 
@@ -36,7 +37,7 @@
 
   2023 Aerotube Top 10 in China
 
-  2023 Aerotube 3rd Priza in China
+  2023 Aerotube 3rd Prize in China
 
   2023 SAT 1st Take: 
   - Total: **1490**
