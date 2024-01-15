@@ -1,5 +1,5 @@
 # Links
 
-友情链接
+**Friends:**
 
-[~~湿红勃~~](https://gehangma.github.io/EsperIsSB/)
+[Esper.S and his Machines](https://esperaa.github.io/meaidevice/)
