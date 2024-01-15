@@ -9,7 +9,7 @@
 ```
 **Selfie：**
 
-![](Me.png)
+<img src="Me.png" alt="Image" height = "400" width="300">
 
 ## Who am I？
 
