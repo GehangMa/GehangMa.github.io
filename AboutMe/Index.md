@@ -23,13 +23,22 @@
 
   某wiki见习编辑
 
-  - ### 部分奖项
+  - ### Part of Academic Record
 
   **很菜**
 
-  2022 Physics Bowl Global Sliver
+  2022 Physics Bowl National Sliver
+
+  2023 Advanced Placement: 
+  - Physics C Mechanics 5
+  - Calculus AB 5
+  - Microeconomics 5
 
   2023 Aerotube Top 10 in China
 
   2023 Aerotube 3rd Priza in China
-  
+
+  2023 SAT 1st Take: 
+  - Total: **1490**
+  - Reading: **690**
+  - Maths: **800**
