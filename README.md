@@ -1,7 +1,4 @@
----
-Title: Hello?
-Weight: 1
----
+# Hello!
 
 ~~*Just nod if you can hear me.*~~
 
