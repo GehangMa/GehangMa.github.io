@@ -1,10 +1,12 @@
-## You wanna ROCK IT??!
+## You wanna ROCK??!
 
-**YES!!!**
+### YES!!!
 
 ```diff
 
-Ah! Tbh I'm very fond of RnR!
+Ah! Tbh I'm very fond of RnR ;)
+
+I can even feel rock music flowing in my veins 🎸😎
 
 You can see my comments on some specific genres/bands/albums/songs below!
 
