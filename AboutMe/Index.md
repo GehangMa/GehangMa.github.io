@@ -1,10 +1,10 @@
 # About Me
 
-你想从哪个方面了解我？
+Wanna know...?
 
-[爱好](Hobbies/Readme.md)
+[My Hobbies!](Hobbies/Readme.md)
 
-[烦恼](Misery/Readme.md)
+[Worries.](Misery/Readme.md)
 
 
 ## Me
