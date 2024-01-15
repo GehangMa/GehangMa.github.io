@@ -1,4 +1,5 @@
-## You wanna ROCK??!
+
+> **You wanna ROCK??!**
 
 ### YES!!!
 
@@ -6,9 +7,9 @@
 
 Ah! Tbh I'm very fond of RnR ;)
 
-I can even feel rock music flowing in my veins 🎸😎
-
 You can see my comments on some specific genres/bands/albums/songs below!
+
+(Just personal opinions, not professional comments)
 
 And there are also some interesting stuffs that I have collected!
 
