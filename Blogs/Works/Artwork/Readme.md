@@ -9,7 +9,7 @@
 
 - ## Emotion
 
-
+![](Bri_NothingButBlue.png)
 
 - ## Fanart
 
