@@ -1,4 +1,6 @@
-# Contact&Links
+---
+title: Contact&Links
+---
 
 > *"Sorry我不在，请在Beep声后留言"*
 >
