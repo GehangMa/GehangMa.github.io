@@ -1,5 +1,6 @@
 ---
 title: Contact&Links
+weight: 3
 ---
 
 > *"Sorry我不在，请在Beep声后留言"*
