@@ -1,6 +1,4 @@
----
-Title: Links
----
+# Contact&Links
 
 > *"Sorry我不在，请在Beep声后留言"*
 >
