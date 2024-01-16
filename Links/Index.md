@@ -1,4 +1,6 @@
-# Links
+---
+Title: Links
+---
 
 **Friends:**
 
