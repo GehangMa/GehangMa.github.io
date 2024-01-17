@@ -1,5 +1,6 @@
 ---
 title: About Me
+weight: 1
 ---
 
   「航」(he/him)
