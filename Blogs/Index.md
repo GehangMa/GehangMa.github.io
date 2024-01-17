@@ -1,6 +1,6 @@
 ---
 title: Blogs
-weight: 4
+weight: 2
 ---
 
 Here is my blog pages.
