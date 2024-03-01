@@ -6,7 +6,9 @@
 
 ```diff
 
-+ Hello, I'm 航 :)
+Hello, I'm 航 :)
+
+A little boy made of passion & curiousity!
 
 ```
 **Selfie：**
@@ -23,13 +25,13 @@ It's hard to answer this question.
 
 ```
 
-### **There are a thousand Hamlets in a thousand people's eyes.**
+### According to the quote:' **There are a thousand Hamlets in a thousand people's eyes.** '
 
 ```diff
 
 There should be also a thousand 航s in a thousand people's eyes ;)
 
-Read about me on this website, then you'll find the answer.
+Read about me on this website, then you may find the answer.
 
 ```
 
@@ -37,15 +39,13 @@ Read about me on this website, then you'll find the answer.
 
 ```diff
 
-Here is a place for my head.
+Here is 'A place for my head'.
 
-```
+In the digital space, I am able to publish all my thoughts here without the limitation of reality.
 
-### Welcome to my cyber-world 🤖️🤖️🤖️
+Anyways, welcome to my cyber-world 🤖️🤖️🤖️
 
-```
-
-Enjoy!
+ENJOY!!!
 
 ```
 
